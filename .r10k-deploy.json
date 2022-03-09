@@ -1,0 +1,39 @@
+{
+  "name": "production",
+  "signature": "b36ce7e69d8cb1e264c8653226cd4466ba89e52c",
+  "started_at": "2022-03-10 04:12:00 +0800",
+  "finished_at": "2022-03-10 04:12:04 +0800",
+  "deploy_success": true,
+  "module_deploys": [
+    {
+      "name": "inifile",
+      "version": "3.0.0",
+      "sha": null
+    },
+    {
+      "name": "stdlib",
+      "version": "6.0.0",
+      "sha": null
+    },
+    {
+      "name": "concat",
+      "version": "6.0.0",
+      "sha": null
+    },
+    {
+      "name": "ntp",
+      "version": "8.4.0",
+      "sha": null
+    },
+    {
+      "name": "exec",
+      "version": "0.8.0",
+      "sha": null
+    },
+    {
+      "name": "mysql",
+      "version": "10.8.0",
+      "sha": null
+    }
+  ]
+}
