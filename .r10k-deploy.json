@@ -1,8 +1,8 @@
 {
   "name": "production",
   "signature": "46cbe43c544c1d257310d8c507d11c96a46a5ce8",
-  "started_at": "2022-03-10 17:34:08 +0800",
-  "finished_at": "2022-03-10 17:34:08 +0800",
+  "started_at": "2022-03-10 17:49:51 +0800",
+  "finished_at": "2022-03-10 17:49:51 +0800",
   "deploy_success": true,
   "module_deploys": [
 
